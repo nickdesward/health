@@ -1,5 +1,5 @@
 package health
 
-func Echo() string {
-	return "Eecho, Echo, echo"
+func Echo(message string) string {
+	return message
 }
