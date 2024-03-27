@@ -1,3 +1,3 @@
-module github.com/nickdesward/health.git
+module github.com/nickdesward/health
 
 go 1.22.1
